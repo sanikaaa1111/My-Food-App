@@ -48,37 +48,35 @@ I made this project during my 6th semester for my Java Practical course. My Food
 
 Now, coming to the database part of the application. I used MYSQL to create my database and tables. It was connected to my java code using JDBC.
 The following are the tables which were created in the db.
+"ScreenShots/Screenshot 2025-03-20 (13).png"
 
 >> customer table
 Schema is as follows
 
-"C:\Users\Shubham Bangar\OneDrive\Sanika\OneDrive\Desktop\My Food App\ScreenShots\Screenshot 2025-03-20 (13).png"
+"ScreenShots/Screenshot 2025-03-20 (12).png"
 
 >> drinks table
 Schema is as follows
 
-"C:\Users\Shubham Bangar\OneDrive\Sanika\OneDrive\Desktop\My Food App\ScreenShots\Screenshot 2025-03-20 (10).png"
+"ScreenShots/Screenshot 2025-03-20 (10).png"
 
 >> food table
 Schema is as follows
 
-"C:\Users\Shubham Bangar\OneDrive\Sanika\OneDrive\Desktop\My Food App\ScreenShots\Screenshot 2025-03-20 (9).png"
-
->> drinkOrder table
+"ScreenShots/Screenshot 2025-03-20 (9).png"
 Schema is as follows
 
-"C:\Users\Shubham Bangar\OneDrive\Sanika\OneDrive\Desktop\My Food App\ScreenShots\Screenshot 2025-03-20 (11).png"
+"ScreenShots/Screenshot 2025-03-20 (11).png"
 
 >> foodOrder table
 Schema is as follows
 
-"C:\Users\Shubham Bangar\OneDrive\Sanika\OneDrive\Desktop\My Food App\ScreenShots\Screenshot 2025-03-20 (8).png"
+"ScreenShots/Screenshot 2025-03-20 (8).png"
 
 >> totalOrder table
 Schema is as follows
 
-"C:\Users\Shubham Bangar\OneDrive\Sanika\OneDrive\Desktop\My Food App\ScreenShots\Screenshot 2025-03-20 (7).png"
-
+"ScreenShots/Screenshot 2025-03-20 (7).png"
 
 
 
