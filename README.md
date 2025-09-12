@@ -48,35 +48,88 @@ I made this project during my 6th semester for my Java Practical course. My Food
 
 Now, coming to the database part of the application. I used MYSQL to create my database and tables. It was connected to my java code using JDBC.
 The following are the tables which were created in the db.
-"ScreenShots/Screenshot 2025-03-20 (13).png"
+Tables in onlinefoodorderdb
+
+ >> customer
+
+ >> drinkOrder
+
+ >> drinks
+
+ >> food
+
+ >> foodOrder
+
+ >> totalOrder
 
 >> customer table
 Schema is as follows
+ 
+ > customer_id
 
-ScreenShots/Screenshot 2025-03-20 (12).png
+ > customer_name
+
+ > customer_emailID
+
+ > customer_password
+
+ > customer_address
+
 
 >> drinks table
 Schema is as follows
 
-"ScreenShots/Screenshot 2025-03-20 (10).png"
+ > drink_id
+
+ > drink_name
+
+ > drink_price
 
 >> food table
 Schema is as follows
 
-"ScreenShots/Screenshot 2025-03-20 (9).png"
+ > food_id
+
+ > food_name
+
+ > food_price
+
+>> drinkOrder table
 Schema is as follows
 
-"ScreenShots/Screenshot 2025-03-20 (11).png"
+ > DO_id
+
+ > order_id
+
+ > drink_id
+
+ > qty
+
+ > total_price
 
 >> foodOrder table
 Schema is as follows
+ 
+ > FO_id
 
-"ScreenShots/Screenshot 2025-03-20 (8).png"
+ > order_id
+
+ > food_id
+
+ > qty
+
+ > total_price
 
 >> totalOrder table
 Schema is as follows
 
-"ScreenShots/Screenshot 2025-03-20 (7).png"
+ > order_id
+
+ > customer_id
+
+ > order_date
+
+ > total_bill
 
 
 
