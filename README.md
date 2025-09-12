@@ -48,6 +48,7 @@ I made this project during my 6th semester for my Java Practical course. My Food
 
 Now, coming to the database part of the application. I used MYSQL to create my database and tables. It was connected to my java code using JDBC.
 The following are the tables which were created in the db.
+
 Tables in onlinefoodorderdb
 
  >> customer
@@ -63,6 +64,7 @@ Tables in onlinefoodorderdb
  >> totalOrder
 
 >> customer table
+
 Schema is as follows
  
  > customer_id
@@ -77,6 +79,7 @@ Schema is as follows
 
 
 >> drinks table
+
 Schema is as follows
 
  > drink_id
@@ -86,6 +89,7 @@ Schema is as follows
  > drink_price
 
 >> food table
+
 Schema is as follows
 
  > food_id
@@ -95,6 +99,7 @@ Schema is as follows
  > food_price
 
 >> drinkOrder table
+
 Schema is as follows
 
  > DO_id
@@ -108,6 +113,7 @@ Schema is as follows
  > total_price
 
 >> foodOrder table
+
 Schema is as follows
  
  > FO_id
@@ -121,6 +127,7 @@ Schema is as follows
  > total_price
 
 >> totalOrder table
+
 Schema is as follows
 
  > order_id
