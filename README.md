@@ -53,7 +53,7 @@ The following are the tables which were created in the db.
 >> customer table
 Schema is as follows
 
-"ScreenShots/Screenshot 2025-03-20 (12).png"
+ScreenShots/Screenshot 2025-03-20 (12).png
 
 >> drinks table
 Schema is as follows
@@ -77,7 +77,6 @@ Schema is as follows
 Schema is as follows
 
 "ScreenShots/Screenshot 2025-03-20 (7).png"
-
 
 
 
