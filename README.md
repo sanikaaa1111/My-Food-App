@@ -51,92 +51,92 @@ The following are the tables which were created in the db.
 
 Tables in onlinefoodorderdb
 
- >> customer
+ - customer
 
- >> drinkOrder
+ - drinkOrder
 
- >> drinks
+ - drinks
 
- >> food
+ - food
 
- >> foodOrder
+ - foodOrder
 
- >> totalOrder
+ - totalOrder
 
->> customer table
-
-Schema is as follows
- 
- > customer_id
-
- > customer_name
-
- > customer_emailID
-
- > customer_password
-
- > customer_address
-
-
->> drinks table
-
-Schema is as follows
-
- > drink_id
-
- > drink_name
-
- > drink_price
-
->> food table
-
-Schema is as follows
-
- > food_id
-
- > food_name
-
- > food_price
-
->> drinkOrder table
-
-Schema is as follows
-
- > DO_id
-
- > order_id
-
- > drink_id
-
- > qty
-
- > total_price
-
->> foodOrder table
+# customer table
 
 Schema is as follows
  
- > FO_id
+ - customer_id
 
- > order_id
+ - customer_name
 
- > food_id
+ - customer_emailID
 
- > qty
+ - customer_password
 
- > total_price
+ - customer_address
 
->> totalOrder table
+
+# drinks table
 
 Schema is as follows
 
- > order_id
+ - drink_id
 
- > customer_id
+ - drink_name
 
- > order_date
+ - drink_price
 
- > total_bill
+# food table
+
+Schema is as follows
+
+ - food_id
+
+ - food_name
+
+ - food_price
+
+# drinkOrder table
+
+Schema is as follows
+
+ - DO_id
+
+ - order_id
+
+ - drink_id
+
+ - qty
+
+ - total_price
+
+# foodOrder table
+
+Schema is as follows
+ 
+ - FO_id
+
+ - order_id
+
+ - food_id
+
+ - qty
+
+ - total_price
+
+# totalOrder table
+
+Schema is as follows
+
+ - order_id
+
+ - customer_id
+
+ - order_date
+
+ - total_bill
 
 
 
